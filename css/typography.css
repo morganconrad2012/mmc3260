@@ -120,11 +120,15 @@ article h3, h4 {
 }
     
 article p {
-    text-align: center;
-    font-size: 14px;
-    width: 90%
+        text-align: center;
+        font-size: 14px;
+        width: 90%
 }
 
+article ul {
+        text-align: center;
+        font-size: 14px;
+}
         
 }
 
